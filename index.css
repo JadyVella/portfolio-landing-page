@@ -2,4 +2,10 @@ body{
     background-image: url('IMG_6377.JPG');
     background-repeat: no-repeat;
     background-size: cover;
+    overflow: none;
+}
+.first{ 
+    border-radius: 50%;
+    width: 300px;
+    margin: auto;
 }
