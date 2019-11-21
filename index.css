@@ -13,4 +13,5 @@ nav>ul>li>a{
     padding: 10px;
     color: white;
     text-decoration: none;
+    text-transform: uppercase;
 }
