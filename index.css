@@ -11,4 +11,5 @@ body{
 }
 nav>ul>li>a{
     padding: 10px;
+    color: white;
 }
