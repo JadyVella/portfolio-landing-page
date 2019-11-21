@@ -9,3 +9,6 @@ body{
     width: 300px;
     margin: auto;
 }
+nav>ul>li>a{
+    padding: 10px;
+}
