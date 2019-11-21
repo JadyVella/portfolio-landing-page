@@ -17,3 +17,6 @@ nav>ul>li>a{
     display: block;
     margin-right: 10px;
 }
+ul{
+    text-align: right;
+}
