@@ -24,7 +24,7 @@ nav>ul>li>a{
     box-shadow: 5px #FBEB47 ;
 }
 ul{
-    text-align: right;
+    text-align: left;
 }
 li{
     display: inline-block;
@@ -34,13 +34,14 @@ nav>ul>li>a:hover{
     background: #F6AE20;
     color: #E9680E;
 }
-h1,h2{
+h2{
     font-family: 'Alatsi', sans-serif;
 }
 p{
     color: #
     display: flex;
     flex-direction: row;
+    font-family: 'Calistoga', cursive;
 }
 h1{
     display: flex;
@@ -48,4 +49,7 @@ h1{
 }
 .me{
     background-color: aliceblue;
+}
+h1{
+    font-family: 'Rye', cursive;
 }
