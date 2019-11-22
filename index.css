@@ -24,5 +24,9 @@ li{
 }
 nav>ul>li>a:hover{
     box-shadow: 2px 2px 4px;
-    background: 
+    background: white;
+    color: #E9680E;
+}
+h1,h2{
+    font-family: 'Alatsi', sans-serif;
 }
