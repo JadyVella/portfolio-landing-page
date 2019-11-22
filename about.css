@@ -1,0 +1,16 @@
+body{
+    background-image: url('IMG_6377.JPG');
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: none;
+    font-size: 20px;
+}
+}
+nav>ul>li>a{
+    padding: 10px;
+    color: #FBEB47;
+    text-decoration: none;
+    text-transform: uppercase;
+    display: block;
+    margin-right: 10px;
+}
