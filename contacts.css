@@ -1,0 +1,38 @@
+body{
+    background-image: url('IMG_6377.JPG');
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: -2px;
+    overflow: none;
+    font-size: 25px;
+    z-index: -5;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+nav>ul>li>a{
+    padding: 10px;
+    color: #C12C05;
+    text-decoration: none;
+    text-transform: uppercase;
+    display: block;
+    margin-right: 10px;
+    box-shadow: 5px #FBEB47 ;
+}
+ul{
+    text-align: left;
+}
+li{
+    display: inline-block;
+}
+nav>ul>li>a:hover{
+    box-shadow: 2px 2px 4px #FBF6BB;
+    background: #F6AE20;
+    color: #E9680E;
+}
+nav{
+    background-color: #28334AFF;
+    right: 0;
+    top: 0;
+    left: 0;
+    position: fixed;
+}
