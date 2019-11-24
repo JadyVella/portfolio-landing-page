@@ -36,3 +36,10 @@ nav{
     left: 0;
     position: fixed;
 }
+h1{
+    font-family: 'Rye', cursive;
+}
+td{
+    border-collapse: collapse;
+    border: 1px solid #28334AFF;
+}
