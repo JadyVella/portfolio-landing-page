@@ -42,4 +42,10 @@ h1{
 td{
     border-collapse: collapse;
     border: 1px solid #28334AFF;
+    font-family: 'Calistoga', cursive;
+}
+th{
+    border-collapse: collapse;
+    border: 1px solid #28334AFF;
+    font-family: 'Calistoga', cursive;
 }
