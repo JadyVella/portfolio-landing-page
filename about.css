@@ -40,11 +40,14 @@ p{
 }
 h2{
     font-family: 'Alatsi', sans-serif;
+    text-align: center;
 }
 .left{
     width: 25%;
     float: left;
-    padding-right: 10%;
+    margin-right: 10%;
+    background-color: rgba(255, 255, 255, .2);
+    z-index: 1;
 }
 .centre{
     width: 25%;
@@ -53,5 +56,10 @@ h2{
 .right{
     width: 25%;
     float: left;
-    padding-left: 10%;
+    margin-left: 10%;
+    background-color: rgba(255, 255, 255, .2);
+}
+h3{
+    text-align: center;
+    background-color: 
 }
