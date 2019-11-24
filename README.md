@@ -1,0 +1,1 @@
+The project name is called portfolio-landing-page and is written by and designed by Felix Ouma. This project talks more about myself
