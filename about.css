@@ -41,3 +41,13 @@ p{
 h2{
     font-family: 'Alatsi', sans-serif;
 }
+.left{
+    width: 25%;
+    float: left;
+}
+.centre{
+    width: 25%;
+}
+.right{
+    width: 25%;
+}
